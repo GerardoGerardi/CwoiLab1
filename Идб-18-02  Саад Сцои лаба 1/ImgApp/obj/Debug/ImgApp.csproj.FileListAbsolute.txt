@@ -1,0 +1,31 @@
+C:\Users\S7yka4\Documents\прога лабы\ImgApp\ImgApp\bin\Debug\ImgApp.exe.config
+C:\Users\S7yka4\Documents\прога лабы\ImgApp\ImgApp\bin\Debug\ImgApp.exe
+C:\Users\S7yka4\Documents\прога лабы\ImgApp\ImgApp\bin\Debug\ImgApp.pdb
+C:\Users\S7yka4\Documents\прога лабы\ImgApp\ImgApp\obj\Debug\ImgApp.csprojAssemblyReference.cache
+C:\Users\S7yka4\Documents\прога лабы\ImgApp\ImgApp\obj\Debug\ImgApp.Form1.resources
+C:\Users\S7yka4\Documents\прога лабы\ImgApp\ImgApp\obj\Debug\ImgApp.Properties.Resources.resources
+C:\Users\S7yka4\Documents\прога лабы\ImgApp\ImgApp\obj\Debug\ImgApp.csproj.GenerateResource.cache
+C:\Users\S7yka4\Documents\прога лабы\ImgApp\ImgApp\obj\Debug\ImgApp.csproj.CoreCompileInputs.cache
+C:\Users\S7yka4\Documents\прога лабы\ImgApp\ImgApp\obj\Debug\ImgApp.exe
+C:\Users\S7yka4\Documents\прога лабы\ImgApp\ImgApp\obj\Debug\ImgApp.pdb
+C:\Users\S7yka4\Documents\прога лабы\ImgApp\ImgApp\obj\Debug\ImgApp.Form2.resources
+C:\Users\S7yka4\Documents\прога лабы\ImgApp228\ImgApp\obj\Debug\ImgApp.csprojAssemblyReference.cache
+C:\Users\S7yka4\Documents\прога лабы\ImgApp228\ImgApp\obj\Debug\ImgApp.Form1.resources
+C:\Users\S7yka4\Documents\прога лабы\ImgApp228\ImgApp\obj\Debug\ImgApp.Properties.Resources.resources
+C:\Users\S7yka4\Documents\прога лабы\ImgApp228\ImgApp\obj\Debug\ImgApp.csproj.GenerateResource.cache
+C:\Users\S7yka4\Documents\прога лабы\ImgApp228\ImgApp\obj\Debug\ImgApp.csproj.CoreCompileInputs.cache
+C:\Users\S7yka4\Documents\прога лабы\ImgApp228\ImgApp\obj\Debug\ImgApp.exe
+C:\Users\S7yka4\Documents\прога лабы\ImgApp228\ImgApp\obj\Debug\ImgApp.pdb
+C:\Users\S7yka4\Documents\прога лабы\ImgApp228\ImgApp\bin\Debug\ImgApp.exe.config
+C:\Users\S7yka4\Documents\прога лабы\ImgApp228\ImgApp\bin\Debug\ImgApp.exe
+C:\Users\S7yka4\Documents\прога лабы\ImgApp228\ImgApp\bin\Debug\ImgApp.pdb
+C:\Users\1\Downloads\SCOI-main\SCOI-main\ImgApp\bin\Debug\ImgApp.exe.config
+C:\Users\1\Downloads\SCOI-main\SCOI-main\ImgApp\bin\Debug\ImgApp.exe
+C:\Users\1\Downloads\SCOI-main\SCOI-main\ImgApp\bin\Debug\ImgApp.pdb
+C:\Users\1\Downloads\SCOI-main\SCOI-main\ImgApp\obj\Debug\ImgApp.csprojAssemblyReference.cache
+C:\Users\1\Downloads\SCOI-main\SCOI-main\ImgApp\obj\Debug\ImgApp.Form1.resources
+C:\Users\1\Downloads\SCOI-main\SCOI-main\ImgApp\obj\Debug\ImgApp.Properties.Resources.resources
+C:\Users\1\Downloads\SCOI-main\SCOI-main\ImgApp\obj\Debug\ImgApp.csproj.GenerateResource.cache
+C:\Users\1\Downloads\SCOI-main\SCOI-main\ImgApp\obj\Debug\ImgApp.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\SCOI-main\SCOI-main\ImgApp\obj\Debug\ImgApp.exe
+C:\Users\1\Downloads\SCOI-main\SCOI-main\ImgApp\obj\Debug\ImgApp.pdb
